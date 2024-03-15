@@ -1,0 +1,14 @@
+/home/javi/cSharp/prueba1/bin/Debug/net8.0/prueba1
+/home/javi/cSharp/prueba1/bin/Debug/net8.0/prueba1.deps.json
+/home/javi/cSharp/prueba1/bin/Debug/net8.0/prueba1.runtimeconfig.json
+/home/javi/cSharp/prueba1/bin/Debug/net8.0/prueba1.dll
+/home/javi/cSharp/prueba1/bin/Debug/net8.0/prueba1.pdb
+/home/javi/cSharp/prueba1/obj/Debug/net8.0/prueba1.GeneratedMSBuildEditorConfig.editorconfig
+/home/javi/cSharp/prueba1/obj/Debug/net8.0/prueba1.AssemblyInfoInputs.cache
+/home/javi/cSharp/prueba1/obj/Debug/net8.0/prueba1.AssemblyInfo.cs
+/home/javi/cSharp/prueba1/obj/Debug/net8.0/prueba1.csproj.CoreCompileInputs.cache
+/home/javi/cSharp/prueba1/obj/Debug/net8.0/prueba1.dll
+/home/javi/cSharp/prueba1/obj/Debug/net8.0/refint/prueba1.dll
+/home/javi/cSharp/prueba1/obj/Debug/net8.0/prueba1.pdb
+/home/javi/cSharp/prueba1/obj/Debug/net8.0/prueba1.genruntimeconfig.cache
+/home/javi/cSharp/prueba1/obj/Debug/net8.0/ref/prueba1.dll

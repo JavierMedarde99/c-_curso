@@ -1,0 +1,12 @@
+{
+    "configurations": [
+
+        {
+            "name": "C#: prueba1",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/Dia2/prueba1.csproj",
+            "launchConfigurationId": "TargetFramework=;prueba1"
+        }
+    ]
+}

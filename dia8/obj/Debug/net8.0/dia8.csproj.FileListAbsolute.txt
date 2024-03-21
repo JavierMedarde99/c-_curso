@@ -1,0 +1,15 @@
+/home/javi/cSharp/cShart-curso/dia8/bin/Debug/net8.0/dia8
+/home/javi/cSharp/cShart-curso/dia8/bin/Debug/net8.0/dia8.deps.json
+/home/javi/cSharp/cShart-curso/dia8/bin/Debug/net8.0/dia8.runtimeconfig.json
+/home/javi/cSharp/cShart-curso/dia8/bin/Debug/net8.0/dia8.dll
+/home/javi/cSharp/cShart-curso/dia8/bin/Debug/net8.0/dia8.pdb
+/home/javi/cSharp/cShart-curso/dia8/obj/Debug/net8.0/dia8.GeneratedMSBuildEditorConfig.editorconfig
+/home/javi/cSharp/cShart-curso/dia8/obj/Debug/net8.0/dia8.AssemblyInfoInputs.cache
+/home/javi/cSharp/cShart-curso/dia8/obj/Debug/net8.0/dia8.AssemblyInfo.cs
+/home/javi/cSharp/cShart-curso/dia8/obj/Debug/net8.0/dia8.csproj.CoreCompileInputs.cache
+/home/javi/cSharp/cShart-curso/dia8/obj/Debug/net8.0/dia8.sourcelink.json
+/home/javi/cSharp/cShart-curso/dia8/obj/Debug/net8.0/dia8.dll
+/home/javi/cSharp/cShart-curso/dia8/obj/Debug/net8.0/refint/dia8.dll
+/home/javi/cSharp/cShart-curso/dia8/obj/Debug/net8.0/dia8.pdb
+/home/javi/cSharp/cShart-curso/dia8/obj/Debug/net8.0/dia8.genruntimeconfig.cache
+/home/javi/cSharp/cShart-curso/dia8/obj/Debug/net8.0/ref/dia8.dll

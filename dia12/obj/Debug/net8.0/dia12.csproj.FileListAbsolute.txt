@@ -1,0 +1,15 @@
+/home/javi/cSharp/cShart-curso/dia12/bin/Debug/net8.0/dia12
+/home/javi/cSharp/cShart-curso/dia12/bin/Debug/net8.0/dia12.deps.json
+/home/javi/cSharp/cShart-curso/dia12/bin/Debug/net8.0/dia12.runtimeconfig.json
+/home/javi/cSharp/cShart-curso/dia12/bin/Debug/net8.0/dia12.dll
+/home/javi/cSharp/cShart-curso/dia12/bin/Debug/net8.0/dia12.pdb
+/home/javi/cSharp/cShart-curso/dia12/obj/Debug/net8.0/dia12.GeneratedMSBuildEditorConfig.editorconfig
+/home/javi/cSharp/cShart-curso/dia12/obj/Debug/net8.0/dia12.AssemblyInfoInputs.cache
+/home/javi/cSharp/cShart-curso/dia12/obj/Debug/net8.0/dia12.AssemblyInfo.cs
+/home/javi/cSharp/cShart-curso/dia12/obj/Debug/net8.0/dia12.csproj.CoreCompileInputs.cache
+/home/javi/cSharp/cShart-curso/dia12/obj/Debug/net8.0/dia12.sourcelink.json
+/home/javi/cSharp/cShart-curso/dia12/obj/Debug/net8.0/dia12.dll
+/home/javi/cSharp/cShart-curso/dia12/obj/Debug/net8.0/refint/dia12.dll
+/home/javi/cSharp/cShart-curso/dia12/obj/Debug/net8.0/dia12.pdb
+/home/javi/cSharp/cShart-curso/dia12/obj/Debug/net8.0/dia12.genruntimeconfig.cache
+/home/javi/cSharp/cShart-curso/dia12/obj/Debug/net8.0/ref/dia12.dll
